@@ -10,8 +10,13 @@ Among models trained using these important features, Random Forest exhibits the 
 Comparative analysis across all features, important features, and remaining features demonstrate the crucial role of features selected by Lasso regression in predicting fracture risk among diabetic patients. Besides, by using a feature importance ranking algorithm, we find several features that hold significant reference values for predicting early bone fracture risk in diabetic individuals.
 ## Code Structure
 -src
+
 --/dataset5.xlsx
+
 --/FeatureImportance.ipynb
+
 --/FeatureSelectionMethods.ipynb
+
 --/LassoParamsRelationship.ipynb
+
 --/ReadMe.md
