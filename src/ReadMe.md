@@ -19,3 +19,6 @@ This document serves multiple analytical purposes in evaluating various models:
    
 4. Visualization of Results
    The document includes graphical representations of model performance. Specifically, it plots Receiver Operating Characteristic (ROC) curves for each model. Additionally, it provides visualizations of feature importance over the course of model training.
+
+## 4. dataset5.xlsx
+This file contains a preprocessed dataset specifically detailing information about diabetic patients. It comprises records of 1682 individuals diagnosed with diabetes, each profiled across 85 distinct features.
